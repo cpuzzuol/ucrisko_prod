@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.99800fb0177d8e6c715438d83bdfaed6.js"
+  "/precache-manifest.d58b6fc62a9250f5e75d3606719840cf.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "ucrisko"});
